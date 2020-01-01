@@ -1,3 +1,3 @@
-class Book("And Then There Were None")
+class Book(title)
 end 
 
